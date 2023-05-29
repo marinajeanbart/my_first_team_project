@@ -1,3 +1,1 @@
 # my_first_team_project
-
-my_feature_branch_Marina
